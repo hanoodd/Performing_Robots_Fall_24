@@ -3,7 +3,7 @@
 Character Description:
 Detective Hawk likes to pretend he knows what he is doing, clearly being inspired by watching too much Sherlock Holmes. He usually thinks out loud by talking to his sock puppet ‘Mr. Wright’. He finds clues by sheer luck and makes incorrect assumptions all the time even when it's obvious to the audience. When he interviews the suspects, he asks irrelevant questions. He is just lucky that they slip up.
 
-Detective Hawk rocks a trench coat, mustache, and fedora. He also has a sock puppet sidekick on his hand that he talks to. He has a serious look.
+Detective Hawk rocks a trench coat, mustache, and fedora. He also has a sock puppet sidekick on his hand that he talks to.
 
 ![detective_hawk](https://github.com/user-attachments/assets/ab8920c7-f0b4-4344-a60e-056e1bbcd83c)
 
