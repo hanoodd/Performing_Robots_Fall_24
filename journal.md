@@ -22,3 +22,23 @@ Next we started drilling holes into the wooden board to give space for the nuts 
 
 Lastly, we installed the motors with the wheels onto the wooden board with M4 nuts and bolts.![IMG_4403](https://github.com/user-attachments/assets/f9d5e252-15f3-4112-b50e-fe5b5c665feb)
 
+### 26 September 2024
+
+In last Thursday's class, my partner and I focused on refining the wheel setup for our project. Initially, we had two larger wheels attached, and during this session, we worked on adding two smaller wheels. It’s crucial to maintain a bit of wobble in the board to prevent it from getting stuck during the performance. However, the smaller wheels were too short, so we decided to cut small wooden spacers to fit between the wheels and the board, raising the wheels to the right height.
+
+![image](https://github.com/user-attachments/assets/804d6fe7-97d4-4624-8ca7-cb897934d594)
+
+Unfortunately, we miscalculated the length of the wooden spacers, and the board ended up sitting evenly on all four wheels, which eliminated the necessary wobble. To fix this, we removed one of the wheels and replaced the wooden spacer with a smaller piece, creating the imbalance we need.
+
+![image](https://github.com/user-attachments/assets/0e8b38c3-d36e-4716-a315-d7a5e7867e17)
+
+Throughout the process, we used screws to attach everything securely, making pilot and through holes where needed. Looking ahead, our plan for the next class is to add the wires and start the soldering process.
+
+### 1 October 2024
+Question's for today's presentations:
+
+Linh's Presentation on Oriza Hirata:
+Does the audience knowing they are watching a robot performing or not affect how they emotionally respond to the performance?
+
+Fatima's Presentation on Hiroshi Ishiguro:
+What is the need for making realistic humanoid robots, is there any other way to approach robots for entertainment besides looking realistic? It would be cool to make robots look creepy on purpose
