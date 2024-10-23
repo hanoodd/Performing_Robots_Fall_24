@@ -42,3 +42,9 @@ Does the audience knowing they are watching a robot performing or not affect how
 
 Fatima's Presentation on Hiroshi Ishiguro:
 What is the need for making realistic humanoid robots, is there any other way to approach robots for entertainment besides looking realistic? It would be cool to make robots look creepy on purpose
+
+### 24 October 2024
+
+This is the final design of our robot, we want to add a motor onto his sock puppet that makes it seem like he is making puppet talk. We also want to add neopixels to his eyes that show where he is looking. The idea is that his eyes will look towards his puppet when talking to him.
+
+![sketch2](https://github.com/user-attachments/assets/7cd6ce0d-0bad-486e-be9b-b49ad70d1331)
