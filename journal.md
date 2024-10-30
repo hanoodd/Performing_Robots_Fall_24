@@ -48,3 +48,10 @@ What is the need for making realistic humanoid robots, is there any other way to
 This is the final design of our robot, we want to add a motor onto his sock puppet that makes it seem like he is making puppet talk. We also want to add neopixels to his eyes that show where he is looking. The idea is that his eyes will look towards his puppet when talking to him.
 
 ![sketch2](https://github.com/user-attachments/assets/7cd6ce0d-0bad-486e-be9b-b49ad70d1331)
+
+### 30 October 2024
+
+Today was focused on finalizing the skeleton of the robot. We added all the main parts to hold up the sock puppet arm. The next thing we tried to do was figure out how to make the jaw move to simulate talking with a servo motor. Unfortunately, we ran into some issues and found out the servo we glued to our pieces of wood is faulty, so our next task is to figure out how to remove the hot glue and replace it with a new motor.
+
+![IMG_4927](https://github.com/user-attachments/assets/50619cd7-f3a1-49f0-854e-4c38a5106924)
+
