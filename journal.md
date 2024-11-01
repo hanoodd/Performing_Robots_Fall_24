@@ -55,3 +55,6 @@ Today was focused on finalizing the skeleton of the robot. We added all the main
 
 ![IMG_4927](https://github.com/user-attachments/assets/50619cd7-f3a1-49f0-854e-4c38a5106924)
 
+### 31 October 2024
+
+Today, we found that the sock puppet's jaw didn't open as wide as we wanted. So we decided to do some prototyping with cardboard to measure the readjusted length we would need for the jaw mechanism. Additionally, we also found that a part of our arduino shield was melted, so we had to resolder the pins. I learnt about how to remove solder again where you have to bang it against the table to knock the solder out of the holes.
