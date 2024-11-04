@@ -57,4 +57,20 @@ Today was focused on finalizing the skeleton of the robot. We added all the main
 
 ### 31 October 2024
 
-Today, we found that the sock puppet's jaw didn't open as wide as we wanted. So we decided to do some prototyping with cardboard to measure the readjusted length we would need for the jaw mechanism. Additionally, we also found that a part of our arduino shield was melted, so we had to resolder the pins. I learnt about how to remove solder again where you have to bang it against the table to knock the solder out of the holes.
+Today, we found that the sock puppet's jaw didn't open as wide as we wanted. So we decided to do some prototyping with cardboard to measure the readjusted length we would need for the jaw mechanism. Additionally, we also found that a part of our arduino shield was melted, so we had to resolder the pins. I learnt about how to remove solder from the professor. You have to bang it against the table to knock the solder out of the holes.
+
+### 4 November 2024
+
+My teammate worked on the puppet jaw and used an aluminium piece to extend the jaw more. I found that we actually needed to use a nut and bolt instead of a nail as the piece needed to be as stable as possible, and also worked to instal the servo motor into the bracket at just the right spot and angle where the jaw can extend properly. After lots of trial and error, the jaw was able to open and close.
+
+https://github.com/user-attachments/assets/2caa106a-487a-48f9-9d54-c6069fd1fb32
+
+Next I worked on wiring up all the base components as we still haven't completely wired everything up properly. I looked at others bases and copied the same wiring that others had, then used some tape to keep everything organized and pinned down. After, I soldered the radio onto the Arduino Uno shield to finish off the base.
+
+![WhatsApp Image 2024-11-05 at 00 19 10](https://github.com/user-attachments/assets/94fe8dd7-a317-42ad-8f60-34f610c7dee9)
+
+Next I moved on to completing the Arduino Mega Shield by refering to the lecture notes and the video Github.
+
+![WhatsApp Image 2024-11-05 at 00 19 10 (1)](https://github.com/user-attachments/assets/983b5b05-1181-4df9-92ec-641b49a32543)
+
+As it was past 10 pm in the lab, I wasn't able to access the drills to install the puppet mouth onto the skeleton just yet, so that is the next step. Also, we should use the servo extender cables to wire the puppet to the Arduino Mega Shield
