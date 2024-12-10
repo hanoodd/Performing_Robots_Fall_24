@@ -74,3 +74,48 @@ Next I moved on to completing the Arduino Mega Shield by refering to the lecture
 ![WhatsApp Image 2024-11-05 at 00 19 10 (1)](https://github.com/user-attachments/assets/983b5b05-1181-4df9-92ec-641b49a32543)
 
 As it was past 10 pm in the lab, I wasn't able to access the drills to install the puppet mouth onto the skeleton just yet, so that is the next step. Also, we should use the servo extender cables to wire the puppet to the Arduino Mega Shield
+
+### 5 November 2024
+
+We were able to program the motors at the base so that the robot moved forward.
+
+
+https://github.com/user-attachments/assets/498a8e98-3a55-4b5f-8d45-6c2040d59ec3
+
+
+### 7 November 2024
+
+We worked on making the robot be able to work smoothly with the RC controller however we ran into an issue where one of our wheels wasn't able to move in the backwards direction. After lots of troubleshooting, we found that the soldering in one of our boards was the issue using the multimeter. After replacing it with another soldered board it was working smoothly.
+
+![IMG_5026](https://github.com/user-attachments/assets/41353029-8407-47bd-ba2a-406c793e69ee)
+
+### 12 November 2024
+
+We decided we wanted to add a new addition to our robot, a way to simulate his belly laughing as we thought it would be funny if he was constantly laughing unnecessarily. So for today we were working on constructing the mechanism for the stomach. We want to be able to move the stomach up and down, so we constructed a more complex mechanism similar to the jaw mechanism but with more joints. So far we were able to cut up and attach the aluminium parts and also cut the wood we want the servo to rest on.
+
+Additionally, we worked on soldering the transmitter. It was a relatively straight forward proces to make and add all the parts.
+
+![IMG_5055](https://github.com/user-attachments/assets/6fbe1bcd-af5b-4d5a-be02-fe43a2e3814f)
+![IMG_5056](https://github.com/user-attachments/assets/f423aaa7-12b4-4cfa-b6bd-b7659b7f8cd7)
+![IMG_5057](https://github.com/user-attachments/assets/0194c7df-872a-4d85-94c2-68253058c7f9)
+
+### 13 November 2024
+
+Today we worked on customizing the code given by the professor to ensure a connection was being made by the transmitter. After some small adjustments, a connection was established succesfully. We also did the same for the reciever and it was working successfully.
+
+![IMG_5066](https://github.com/user-attachments/assets/a64bd0b5-ab2b-46cb-a3a0-acf6b7f688a6)
+![IMG_5069](https://github.com/user-attachments/assets/a5130488-2602-439e-b0d1-5e80c37ee270)
+
+### 14 November 2024
+
+Today we worked on prototyping the stomach mechanism using hot glue and cardboard. After a lot of trial and error, we found a suitable way to make the mechanism function as we wanted. We will aim to develop this prototype more.
+
+
+https://github.com/user-attachments/assets/736ec5f9-6c41-4056-bc60-2ac1b89762cb
+
+
+### 19 November 2024
+
+Today I spent many hours in the lab trying to make the mechanism work. Unfortunately I was having a tough time and the mechanism was not functioning well. I believe this is because a lot of the measurements for the pieces that hold up the mechanism need to be very precise and strong. I think this may be too far out of our scope.
+
+
