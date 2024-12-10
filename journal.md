@@ -110,12 +110,28 @@ Today we worked on customizing the code given by the professor to ensure a conne
 
 Today we worked on prototyping the stomach mechanism using hot glue and cardboard. After a lot of trial and error, we found a suitable way to make the mechanism function as we wanted. We will aim to develop this prototype more.
 
-
 https://github.com/user-attachments/assets/736ec5f9-6c41-4056-bc60-2ac1b89762cb
-
 
 ### 19 November 2024
 
-Today I spent many hours in the lab trying to make the mechanism work. Unfortunately I was having a tough time and the mechanism was not functioning well. I believe this is because a lot of the measurements for the pieces that hold up the mechanism need to be very precise and strong. I think this may be too far out of our scope.
+Today I spent many hours in the lab trying to make the mechanism work. Unfortunately I was having a tough time and the mechanism was not functioning well. I believe this is because a lot of the measurements for the pieces that hold up the mechanism need to be very precise and strong. I think this may be too far out of our scope, we might either need to find another way to simulate the stomach movement or keep iterating.
 
+### 21 November 2024
 
+After consulting with the professor, he said a much easier way to get the same sort of effect is to have a big servo motor connect to a wooden piece that simply turns up and down. This implementation was effective and very easy to implement, I was able to have the servo and piece up on the skeleton by the end of the day with it functioning properly. At the end I stuck the pillow to the wood to create more volume for the detectives large stomach.
+
+https://github.com/user-attachments/assets/18b693a6-2e95-43bf-aa71-cc113aabc8b9
+
+### 28 November 2024
+
+We spent 12 hours straight in the lab working on the robot. During this period we installed the servo eyes and mouth, the costume and accessories, speaker, and ensured the transmitter is properly sending signals so everything is working. I sat through every line and coded the exact movements we wanted for each voiceline, which was many as our character was basically 2 characters in 1. So we had everything done before the long break.
+
+### 6 December 2024
+
+Today we finalized the eyes servo as there were still some issues we had with it not working. We decided to simply use a servo for each eye instead of creating a mechanism where 1 servo can control both eyes at once. The code was also added so that the robot looks at the puppet everytime it speaks.
+
+https://github.com/user-attachments/assets/ff8c1740-36fb-4d6b-bb80-9fa90e856fb5
+
+### 9 December 2024
+
+The costume has been finalized so that the stomach is covered with the shirt and pants, and all the clothes are stuck to the board so it doesn't drape over the wheels. Also the sock puppet got a revamp so that it looks more eccentric and quirky.
